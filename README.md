@@ -1,3 +1,2 @@
 # pratica
-teste 
-o teste que eu alterei pelo computador 
+test que alterei pelo navegador
